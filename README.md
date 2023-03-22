@@ -11,3 +11,4 @@ Category and Subcategory dataframes were extracted from the crowdfunding.xlsx fi
 category/subcategory name respectively. 
 
 The campaign dataframe was extracted from the crowdfunding.xlsx file and transformed by first renaming column
+ 
