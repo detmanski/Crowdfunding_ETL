@@ -23,7 +23,7 @@ After the CSV files were complete we sketched the ERD using quickDBD. You can vi
 The ERD shows the relationships between the tables. 
 
 This information was then used to build the tables into a Postgres file. you can find the SQL file in the main folder labeled 'crowdfunding_db_schema.sql'.
-After the tables were built, the csv files were successfully imported into the database. All data types, primary keys and foreign keys have been specified.
+After the tables were built, the csv files were successfully imported into the database. All data types, primary keys and foreign keys have been specified. Screenshots of each table have been included.
 
 Our team divided the work for this project as follows:
 Ayo- completed the Jupyter Notebook, dataframes and csv files
